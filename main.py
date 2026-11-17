@@ -5,7 +5,7 @@ import json
 import datetime
 import subprocess
 
-BASE_PATH = "/home/user-hoge/github-backup"
+BASE_PATH = "/home/user/hoge/github-backup"
 IS_CLONE_ORGS_REPOS = True
 
 
